@@ -2700,6 +2700,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5rem;
+			list-style: none;
 		}
 
 		ul.alt {
